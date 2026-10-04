@@ -16,15 +16,15 @@ text-decoration: underline;
 
 p{
 font-family:arial;
-font-size:18px
-font-style:italic
-color:#D3D3D3
-line-height: 1.8
-letter-spacing:1px
+font-size:18px;
+font-style:italic;
+color:#D3D3D3;
+line-height: 1.8;
+letter-spacing:1px;
 }
 
 body{
-background-color: #B22222
-
+background-color: #B22222;
+}
 
 
