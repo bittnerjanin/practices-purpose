@@ -1,0 +1,30 @@
+h1{
+text-align:center;
+color:#FFFFFF;
+font-size:36px;
+text-transform:uppercase;
+font-weight:bold;
+font-family:georgia;
+}
+
+h2{
+text-align:center;
+color: #00FF00;
+text-transform: uppercase;
+text-decoration: underline;
+}
+
+p{
+font-family:arial;
+font-size:18px
+font-style:italic
+color:#D3D3D3
+line-height: 1.8
+letter-spacing:1px
+}
+
+body{
+background-color: #B22222
+
+
+
